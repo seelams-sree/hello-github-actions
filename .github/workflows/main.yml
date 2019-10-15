@@ -7,3 +7,4 @@ jobs:
     - uses: ./action-a
       env:
         MY_NAME: "Mona"
+        end
